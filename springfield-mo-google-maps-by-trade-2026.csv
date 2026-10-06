@@ -1,0 +1,41 @@
+trade,listings_checked,avg_rating_top20,median_reviews_top20,median_reviews_top3,fewest_reviews_in_top3,pct_top20_with_own_website
+hvac company,20,4.83,235.0,1434,1043,85.0
+optometrist,20,4.75,396.0,882,451,100.0
+veterinarian,20,4.49,423.5,870,259,90.0
+dentist,20,4.83,502.5,845,215,100.0
+pest control,20,4.76,158.5,773,145,90.0
+plumber,20,4.71,246.0,743,185,90.0
+towing service,20,4.5,195.0,734,418,80.0
+locksmith,20,4.5,92.0,535,82,80.0
+garage door repair,20,4.78,55.5,451,212,80.0
+auto repair shop,20,4.6,257.0,431,229,85.0
+hair salon,20,4.88,170.5,405,161,60.0
+carpet cleaning,20,4.87,72.0,372,77,85.0
+barber shop,20,4.86,179.0,331,313,60.0
+moving company,20,4.64,42.5,285,180,80.0
+physical therapy,20,4.84,14.0,257,102,85.0
+mortgage lender,20,4.96,120.0,247,241,85.0
+chiropractor,20,4.89,215.5,209,2,85.0
+flooring store,20,4.63,67.5,193,49,95.0
+house cleaning service,20,4.71,24.5,158,11,85.0
+real estate agent,20,4.78,45.0,155,25,80.0
+gym,20,4.55,98.0,149,9,95.0
+tree service,20,4.81,75.0,147,143,70.0
+fence company,20,4.66,40.5,127,24,95.0
+landscaping company,20,4.82,61.5,103,42,90.0
+house painter,20,4.73,17.5,89,62,75.0
+electrician,20,4.55,43.5,87,58,75.0
+counselor,20,4.62,7.5,86,3,90.0
+tattoo shop,20,4.72,117.0,70,17,45.0
+personal injury lawyer,20,4.71,67.5,69,30,100.0
+massage therapist,20,4.83,43.0,50,4,70.0
+pressure washing,20,4.92,44.0,45,43,90.0
+nail salon,20,4.78,440.0,40,0,65.0
+concrete contractor,20,4.58,11.0,34,31,80.0
+web design,20,4.95,20.5,29,20,100.0
+roofer,20,4.88,79.0,26,16,100.0
+general contractor,20,4.59,18.0,15,12,85.0
+daycare,20,4.34,15.5,15,6,55.0
+insurance agency,20,4.72,84.0,13,0,100.0
+accountant,20,4.56,12.5,10,6,90.0
+dumpster rental,20,4.37,4.0,1,0,55.0
